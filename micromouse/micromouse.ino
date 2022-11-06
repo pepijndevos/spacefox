@@ -51,18 +51,11 @@ void loop() {
   int rz = cm1-cm3;
   
   Joystick.setYAxis(y);
-  Joystick.setZAxis(z);
-  Joystick.setXAxis(x);
-  Joystick.setRyAxis(ry);
+  Joystick.setZAxis(-z);
+  Joystick.setXAxis(-x);
+  Joystick.setRyAxis(-ry);
   Joystick.setRxAxis(rx);
-  Joystick.setRzAxis(rz);
+  Joystick.setRzAxis(-rz);
   
   Joystick.sendState();
-  
-  Serial.print(cm1);
-  Serial.print(" ");
-  Serial.print(cm2);
-  Serial.print(" ");
-  Serial.println(cm3);
-  delay(100);
 }
