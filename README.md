@@ -48,8 +48,9 @@ CAD model of the knob:
 3. Slide the arms halfway onto the potentionmeters facing 45 degree outwards. Apply a drop of hot glue to the slot for the spring and push them all the way in. Apply hot glue to secure the arm to the shaft.
 4. Screw the rod ends onto the push rods and secure the rod ends to the arm with nuts and bolts.
 5. Secure the knob to the rod ends with bolts.
-6. Upload the Arduino code
+6. Upload the Arduino code.
 7. Devise some kind of base plate and somehow screw or glue the PCB to it. (Sorry this part is kind of improvised)
+8. Install [spacenavd](https://github.com/FreeSpacenav/spacenavd) and add `device-id = 1b4f:9206` to `/etc/spnavrc`.
 
 ## Possible improvements
 
