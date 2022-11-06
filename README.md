@@ -6,6 +6,8 @@ All the existing DIY designs out there I could find are not actually 6DOF. Some 
 
 This one is based on a stewart platform made from potentiometers. It was designed so that any idiot with access to a 3D printer can build one. You might even get away with some careful jigsawing!
 
+[![Watch the video](https://img.youtube.com/vi/rLTWWPftyac/maxresdefault.jpg)](https://youtu.be/rLTWWPftyac)
+
 ## Bill of Materials
 
 * 3x arm-Body + arm2-Body, 3D printed or maybe cut from 3mm triplex.
