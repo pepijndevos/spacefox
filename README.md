@@ -61,3 +61,4 @@ This was my first shot at it and it works well enough but it could be better.
 * Find low-friction potentiometers and use weaker springs.
 * Place the potentiometers closer together and user shorter push rods.
 * Place the spring holes a bit further out so the springs sit straight.
+* Design a knob that sits around the push rods rather than on top, for better ergonomics.
