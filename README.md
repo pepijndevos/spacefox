@@ -62,3 +62,5 @@ This was my first shot at it and it works well enough but it could be better.
 * Place the potentiometers closer together and user shorter push rods.
 * Place the spring holes a bit further out so the springs sit straight.
 * Design a knob that sits around the push rods rather than on top, for better ergonomics.
+
+![image](https://user-images.githubusercontent.com/168609/200255733-8002f737-aed2-4ec8-8dd6-94d7f099f993.png)
