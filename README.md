@@ -26,7 +26,7 @@ CAD model of the knob:
 
 CAD model of the base
 
-![image](https://user-images.githubusercontent.com/168609/213921023-31bc5136-c5c2-4d00-9462-9a3b7c648821.png)
+![image](https://user-images.githubusercontent.com/168609/213924230-eee82a88-b86e-415a-8a56-f27027b6e142.png)
 
 ## Bill of Materials
 
