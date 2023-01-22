@@ -41,7 +41,7 @@ CAD model of the base
 * 6x threaded rod, 2mm, 20mm length [AliExpress](https://nl.aliexpress.com/item/1005002781646885.html)
 * 9x Cherry MX compatible switches [AliExpress](https://nl.aliexpress.com/item/1005004285423123.html)
 * 9x keycaps [AliExpress](https://nl.aliexpress.com/item/1005003302173904.html)
-* 2mm & 3 mm nuts and bolts
+* 2mm & 3mm nuts and bolts
 * 0.1" male & female headers
 
 ## Assembly instructions
