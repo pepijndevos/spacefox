@@ -6,6 +6,8 @@ All the existing DIY designs out there I could find are not actually 6DOF. Some 
 
 This one is based on a stewart platform made from potentiometers. It was designed so that any idiot with access to a 3D printer can build one. You might even get away with some careful jigsawing!
 
+[buy one from my Tindie store](https://www.tindie.com/products/pepijndevos/6-dof-arduino-cad-mouse/)
+
 ## Gallery
 
 Watch the Youtube video:
