@@ -6,7 +6,13 @@ All the existing DIY designs out there I could find are not actually 6DOF. Some 
 
 This one is based on a stewart platform made from potentiometers. It was designed so that any idiot with access to a 3D printer can build one. You might even get away with some careful jigsawing!
 
-[buy one from my Tindie store](https://www.tindie.com/products/pepijndevos/6-dof-arduino-cad-mouse/)
+
+## Other true 6DOF projects
+
+Since doing this project I've become aware of a few other people making true 6DOF DIY spacemice that may actually be worth your time.
+
+* [Space Mushroom](https://www.instructables.com/Space-Mushroom-Full-6-DOFs-Controller-for-CAD-Appl/)
+* [Haptick](https://blog.ioces.com/matt/posts/haptick-part-two/)
 
 ## Gallery
 
